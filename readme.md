@@ -1,0 +1,1 @@
+I'm learning how git, github, and django work. Forgive me dada
